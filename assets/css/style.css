@@ -66,11 +66,17 @@
     margin: 20px;
 }
 
-#info-top {
+.info-top {
     width: 250px;
     height: 50px;
     font-size: 30px;
     float: left;
 }
+
+.info-top img {
+    height: 35px;
+
+}
+
 
 
